@@ -1,17 +1,17 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [OBJETOS INTELIGENTES CONECTADOS] 5 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 05k11
+## Projeto: "Mini_estação_meterologica"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
+* Victor Zuchi campos Tia:41305231
+* Bruna Castellani Agante dos Santos Tia:31347908
 * Aluno 3
 * Aluno 4
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
+A ideia do projeto e criar uma mini estação meterologica onde se possa usar o projeto para medir a temperatura remotamente por exemplo na sua casa da praia e você de longe saber , ou apenas para medir os dados na sua casa.
 
 _______________________________________
 Obs:
