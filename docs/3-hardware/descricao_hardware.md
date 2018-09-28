@@ -2,7 +2,7 @@
 
 Deve conter:
 
-1) * Sensor de umidade e temperatura DHT22
+1) + Sensor de umidade e temperatura DHT22
    * Arduino UNO
    *resistores de 10k de pull-up
    *header fêmea de 14 pinos
