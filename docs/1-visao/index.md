@@ -43,6 +43,13 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ### Protótipos para funcionalidade 1
 
-![](proto1.png)
+![](Circuito.jpeg)
+![](Cooler.jpeg)
+![](Frente.jpeg)
+![](filtro.jpeg)
+![](Node-Red.png)
+![](Dashboards.png)
+
+
 
 
