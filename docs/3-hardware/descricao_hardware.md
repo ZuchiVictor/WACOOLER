@@ -4,22 +4,26 @@ Deve conter:
 
 1)Lista de Peças (descrição e imagens, quando disponíveis)
 
-* Sensor de umidade e temperatura DHT22
+* 2 - Sensor de umidade e temperatura DHT11
 * Arduino UNO
-* resistores de 10k de pull-up
-* header fêmea de 14 pinos
-* barra de pino 90 graus de 6 pinos (4 pinos + 2 pinos)
-* sensor de efeito hall
-* Modulo WIFI
-* Projeto 3D Pluviometro
+* resistores de 2k2
+* Transistor TIP41C
+* Diodo
+* LCD 16x2
+* Cooler
+
 
 2) Desenho Tinkercad ou Fritzing
 
+![](Tinkercad.png)
+
 3) Esquema eletrônico
 
+
 4) Materiais para confecção de caixas e consoles (ou arquivos para impressão 3D)
-   * chapa de acrílico de 460 x 280 mm
-   * báscula impressa em ABS
-   * eixo de aço inox de 30 x 3 mm (vamos detalhar opções alternativas!)
-   * imã de 4 x 2 mm
-   * Caixa 3d para armazenar Sensores e arduino.
+   * chapa de Pcv 
+   * 200 palitos de fibra de vidro
+   * Fibra de celulose
+   * Coller
+   * Caixa Para colocar agua
+   * Filtro montado com bribra de vidro e fibra de celulose
