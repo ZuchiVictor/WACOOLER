@@ -1,4 +1,4 @@
-# *Nome do Projeto*
+# *WACOOLER*
 
 ## Documentos
 * Documentação Hardware
