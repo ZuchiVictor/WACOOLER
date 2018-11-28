@@ -19,6 +19,7 @@ Deve conter:
 
 3) Esquema eletrônico
 
+![](CIRCUITO_ELETRICO.jpeg)
 
 4) Materiais para confecção de caixas e consoles (ou arquivos para impressão 3D)
    * chapa de Pcv 
